@@ -6,12 +6,13 @@
 
 | Trainee Name       | Student ID      | Learning Path      | University                  |
 |--------------------|-----------------|--------------------|-----------------------------|
-| [Zam-Zam Berlian]        | [M175B4KX4604]       | Machine Learning   | [STMIK Sinar Nusantara]          |
-| [Eva Theresia Pardede]   | [M315B4KX1294]  | Machine Learning   | [Universitas Sriwijaya]     |
-| [Muthia Nashiroh Ramadhni]   | [M315B4KX3164]  | Machine Learning   | [Universitas Sriwijaya]     |
+| Zam-Zam Berlian        | M175B4KX4604       | Machine Learning   | STMIK Sinar Nusantara          |
+| Eva Theresia Pardede   | M315B4KX1294  | Machine Learning   | Universitas Sriwijaya     |
+| Muthia Nashiroh Ramadhni   | M315B4KX3164  | Machine Learning   | Universitas Sriwijaya     |
 
 ## Tech Stack
-- **TensorFlow**  
+- **TensorFlow**
+- **Keras**
 - **Numpy**    
 - **Pandas**  
 - **Matplotlib**  
@@ -22,7 +23,7 @@ This repository contains the machine learning model, dataset, and algorithm for 
 
 ## Skin Type Classifier
 
-The **Skin Type Classifier** was developed using the ResNet50 architecture as the base model for transfer learning. The dataset used is the `SkinTypeDataset` which contains labeled images categorized by skin types (e.g., Dry, Normal, and Oily).
+The **Skin Type Classifier**(isi link ipynb model) was developed using the ResNet50 architecture as the base model for transfer learning that is taken from <u>Keras</u>. The dataset used is the `SkinTypeDataset` which contains labeled images categorized by skin types (e.g., Dry, Normal, and Oily).
 
 ## Scrapping for Recommendation Product Skincare from Tokopedia
 
