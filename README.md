@@ -12,7 +12,6 @@
 
 ## Tech Stack
 - **TensorFlow**
-- **Keras**
 - **Numpy**    
 - **Pandas**  
 - **Matplotlib**  
@@ -27,4 +26,4 @@ The [Skin Type Classifier](isi link ipynb model) was developed using the ResNet5
 
 ## Scrapping for Recommendation Product Skincare from Tokopedia
 
-We have collected a dataset of 
+We have collected a dataset of 1397
