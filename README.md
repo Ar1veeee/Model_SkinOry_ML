@@ -23,7 +23,7 @@ This repository contains the machine learning model, dataset, and algorithm for 
 
 ## Skin Type Classifier
 
-The **Skin Type Classifier**(isi link ipynb model) was developed using the ResNet50 architecture as the base model for transfer learning that is taken from <u>Keras</u>. The dataset used is the `SkinTypeDataset` which contains labeled images categorized by skin types (e.g., Dry, Normal, and Oily).
+The **Skin Type Classifier**(isi link ipynb model) was developed using the ResNet50 architecture as the base model for transfer learning that is taken from (https://keras.io/api/applications/). The dataset used is the `SkinTypeDataset` which contains labeled images categorized by skin types (e.g., Dry, Normal, and Oily).
 
 ## Scrapping for Recommendation Product Skincare from Tokopedia
 
